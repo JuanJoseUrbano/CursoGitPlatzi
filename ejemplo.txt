@@ -8,6 +8,11 @@ Este es un parrafo para la rama de prueba.
 
 Quiero hacer un pull desde git y agregar el cambio que se hizo desde github.
 
+Scanner entrada = Scanner (System.in);
 float numeroUno, numeroDos;
+System.outprint ("Digite un numero");
+numeroUno = entrada.nextFloat
+System.outprint ("Digite un numero");
+numeroDos = entrada.nextFloat
 float suma = numeroUno + numeroDos;
-System.in.outprint "La suma entre los dos numero es "+suma;
+System.outprint ("La suma entre los dos numero es "+suma);
