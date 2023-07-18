@@ -1,3 +1,5 @@
 Hola, este es el ejemplo que usare para el curso de git.
 Freddie es mi profesor de este curso EL CUAL ES MUY BUENO EXPLICANDO, porfavor, que haga mas cursos gratis.
 
+Este es un parrafo para la rama de prueba.
+
