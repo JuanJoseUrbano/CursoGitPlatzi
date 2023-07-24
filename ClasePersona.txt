@@ -2,18 +2,57 @@ public class Persona {
 
 private String nombre;
 private int edad;
-private String DocumentoId;
+private String documentoId;
 private String fechaNacimiento;
 private String sexo;
 
 public void Persona (){
 }
-public void persona (String nombre, int edad, String DocumentoId, String fechaNacimiento, String sexo){
+public void persona (String nombre, int edad, String documentoId, String fechaNacimiento, String sexo){
 this.nombre = nombre;
 this.edad = edad;
-this.DocumentoId = DocumentoId;
+this.documentoId = documentoId;
 this.sexo = sexo;
 }
+ public String getNombre() {
+        return nombre;
+    }
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
+    public int getEdad() {
+        return edad;
+    }
+
+    public void setEdad(int edad) {
+        this.edad = edad;
+    }
+
+    public String getDocumentoId() {
+        return documentoId;
+    }
+
+    public void setDocumentoId(String documentoId) {
+        this.documentoId = documentoId;
+    }
+
+    public String getFechaNacimiento() {
+        return fechaNacimiento;
+    }
+
+    public void setFechaNacimiento(String fechaNacimiento) {
+        this.fechaNacimiento = fechaNacimiento;
+    }
+
+    public String getSexo() {
+        return sexo;
+    }
+
+    public void setSexo(String sexo) {
+        this.sexo = sexo;
+    }
 
 
 }
