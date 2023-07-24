@@ -1,0 +1,19 @@
+public class Persona {
+
+private String nombre;
+private int edad;
+private String DocumentoId;
+private String fechaNacimiento;
+private String sexo;
+
+public void Persona (){
+}
+public void persona (String nombre, int edad, String DocumentoId, String fechaNacimiento, String sexo){
+this.nombre = nombre;
+this.edad = edad;
+this.DocumentoId = DocumentoId;
+this.sexo = sexo;
+}
+
+
+}
