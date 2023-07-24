@@ -18,3 +18,5 @@ System.outprint ("Digite un numero");
 numeroDos = entrada.nextFloat
 float suma = numeroUno + numeroDos;
 System.outprint ("La suma entre los dos numero es "+suma);
+
+utilizare el cherry-pick: como traer commits antiguos al head de un branch
