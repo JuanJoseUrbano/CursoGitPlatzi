@@ -6,7 +6,9 @@ Mi nombre es Juan Jose Urbano Perdomo, tengo 18 años, estudio Ingenieria de sis
 
 Este es un parrafo para la rama de prueba.
 
-Quiero hacer un pull desde git y agregar el cambio que se hizo desde github.
+Ya hice el pull request y efectivamente funcionó.
+
+//codigo para sumar 2 numeros.
 
 Scanner entrada = Scanner (System.in);
 float numeroUno, numeroDos;
